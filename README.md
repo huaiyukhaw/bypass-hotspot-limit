@@ -41,4 +41,7 @@ How does changing the TTL / Hop Limit help in bypassing hotspot limit?
 
 https://www.reddit.com/r/Android/comments/8p69ez/bypassing_verizons_unlimited_plans/
 
-Note: No guarantee to work in all situations, I am using Windows/Ubuntu dual boot with Yoodo data plan.
+Notes:
+
+1. No guarantee to work in all situations, I am using Windows/Ubuntu dual boot with Yoodo data plan.
+2. I'm using this as fibre internet is not available in my housing area... so I can only use data hotspot.
