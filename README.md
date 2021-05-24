@@ -21,11 +21,11 @@
 
 Whichever route you choose, add this to the file, save and exit:
 
-`net.ipv4.ip_default_ttl = 64`
+`net.ipv4.ip_default_ttl = 65`
 
 Then reload the kernel parameters using the following command along with the name of the file you added the parameter to:
 
-`sysctl -p /etc/sysctl.conf`
+`sudo sysctl -p /etc/sysctl.conf`
 
 
 ---
